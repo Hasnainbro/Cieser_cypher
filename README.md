@@ -11,8 +11,7 @@ Encrypt and decrypt messages using the Caesar Cipher with this simple Python com
 2. Open a terminal and navigate to the repository's directory.
 
 3. Run the application by executing the following command:
-
-  `python caesar_cipher.py`
+       `python caesar_cipher.py`
 
 4. Follow the on-screen instructions to interact with the application.
 
@@ -20,20 +19,20 @@ Encrypt and decrypt messages using the Caesar Cipher with this simple Python com
 
 1. **Type of Operation**
 
-  * When prompted, type 'encode' to encrypt a message or 'decode' to decrypt a message.
+      * When prompted, type 'encode' to encrypt a message or 'decode' to decrypt a message.
 
 2. **Input Your Message**
 
-  * Enter the message you want to encrypt or decrypt. The message is not case-sensitive.
+      * Enter the message you want to encrypt or decrypt. The message is not case-sensitive.
 3. **Shift Number**
 
-  * Input the shift number to determine the level of encryption or decryption. This number represents how many positions each letter should be shifted in the alphabet.
+      * Input the shift number to determine the level of encryption or decryption. This number represents how many positions each letter should be shifted in the alphabet.
 4. **View Results**
 
-  * The application will display the resulting cipher text or plain text based on your selected operation.
+      * The application will display the resulting cipher text or plain text based on your selected operation.
 5. **Enjoy Secure Communication**
 
-Use this application to send secret messages to friends or simply learn about encryption and decryption.
+      * Use this application to send secret messages to friends or simply learn about encryption and decryption.
 
 ## Customization
 
@@ -43,8 +42,9 @@ Feel free to customize this application to match your preferences. Here are some
   * Modify the prompts and messages to better suit your style.
 
 ## Author
-* Hasnain kherani
 
+**Hasnain kherani**
+  
 ## License
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
