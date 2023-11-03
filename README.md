@@ -44,10 +44,6 @@ Feel free to customize this application to match your preferences. Here are some
 ## Author
 
 **Hasnain kherani**
-  
-## License
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 Thanks to the open-source community for inspiring and providing resources for this project.
